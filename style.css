@@ -1,0 +1,21 @@
+body{
+    background-color:hsl(212, 45%, 89%)    ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+
+.container{
+    background-color: aliceblue;
+    width: 400px;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+ 
+  
+}
+
+img{
+    border-radius: 30px;
+}
